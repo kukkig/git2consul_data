@@ -2,7 +2,8 @@
 	"testKeySet": {
 		"test1": {
 			"hello": "testing subKey",
-			"hello2": "testing 2nd subKey kyyyy"
+			"hello2": "testing 2nd subKey kyyyy",
+			"hello_tag": "this is tag"
 		}
 	}
 }

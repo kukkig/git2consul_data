@@ -1,7 +1,5 @@
 {
-	"sample": "configuration",
-	"testkey/test1": "key",
-	"testkey2": {
+	"testKeySet": {
 		"test1": {
 			"hello": "testing subKey",
 			"hello2": "testing 2nd subKey kyyyy"
